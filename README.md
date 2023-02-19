@@ -1,4 +1,4 @@
-# pokemon_app
+## Pokemon App
 
 Detail about Pokemon
 
